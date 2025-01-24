@@ -28,16 +28,31 @@ Este proyecto es un programa simple que permite añadir nombres de amigos a una 
 2. **Abrir el archivo HTML**  
    Abre el archivo `index.html` haciendo doble click en este para interactuar con la aplicación.
 
-3. **Agregar Nombres**  
+   ![image 1](https://github.com/user-attachments/assets/d2d7e2b2-89d4-449a-a2bd-2c08bb77a811)
+
+
+4. **Agregar Nombres**  
    - Escribe el nombre de un amigo en el campo de texto.
    - Haz clic en el botón **"Añadir"** para agregarlo a la lista.
+  
+   ![image 2](https://github.com/user-attachments/assets/b0b29ae6-e2d5-43b1-8adb-990dfbb34653)
 
-4. **Visualizar los Nombres**  
+
+5. **Visualizar los Nombres**  
    Los nombres ingresados se mostraran en una lista debajo del campo de texto.
 
-5. **Sortear un Amigo Secreto**  
+   ![image 3](https://github.com/user-attachments/assets/5cbac959-2e73-499d-9e55-d9342f11b5f7)
+
+
+7. **Sortear un Amigo Secreto**  
    - Haz clic en el botón **"Sortear amigo"**.
+  
+   ![image 4](https://github.com/user-attachments/assets/20855814-d1fa-4bff-a93f-1d67489b0ec4)
+
    - Se sorteará un nombre de la lista y se mostrará como resultado.
+  
+     ![image 5](https://github.com/user-attachments/assets/a802a5f8-3f3c-4732-a666-60faf1b2d79c)
+
 
 ## * Recomendaciones
 
